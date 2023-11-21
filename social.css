@@ -81,7 +81,7 @@
   .social {
     position: fixed;
     transform: translate(36%, 110%);
-    font-size: 45px;
+    font-size: 40px;
     animation: 1.5s fadeIn;
     font-weight: bolder;
     letter-spacing: 2.5px;
@@ -92,7 +92,7 @@
   .social2 {
     position: fixed;
     transform: translate(126%, 240%);
-    font-size: 45px;
+    font-size: 40px;
     animation: 3s fadeIn;
     font-weight: bolder;
     letter-spacing: 2.5px;
